@@ -16,7 +16,7 @@ import { computed } from 'vue'
 const props = defineProps({
   phoneNumber: {
     type: String,
-    default: '+254791344698' // Replace with actual phone number
+    default: '+254708799966' // Replace with actual phone number
   },
   message: {
     type: String,
