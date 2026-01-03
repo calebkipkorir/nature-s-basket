@@ -83,8 +83,8 @@ export const products = [
   },
   {
     id: 12,
-    name: 'Coriander Seeds',
-    description: 'Whole coriander seeds with citrusy, floral notes for spice blends.',
+    name: 'Coriander',
+    description: 'Whole coriander leaves with citrusy, floral notes for spice blends.',
     image: '/images/Corriander.png',
     category: 'spices'
   },
