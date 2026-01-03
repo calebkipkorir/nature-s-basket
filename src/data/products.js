@@ -55,8 +55,8 @@ export const products = [
   },
   {
     id: 8,
-    name: 'Black Peppercorns',
-    description: 'Whole black peppercorns for grinding fresh, bold pepper flavor.',
+    name: 'Black Pepper',
+    description: 'Whole black pepper powder with bold pepper flavor.',
     image: '/images/black pepper.png',
     category: 'spices'
   },
